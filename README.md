@@ -1,14 +1,14 @@
-天马HTTP服务器套件
-================
+#天马服务器
 
-当前端工程师需要一个HTTP服务器来辅助开发或自娱自乐时，有以下选择——
+目前1.0版正在开发中，2015年春节后正式发布。
 
-	Apache     PHP 
-	   Nginx   Java
-	IIS  .NET  ...
+如果您想查看历史版本的源代码，请切换到`v0.9`或`v0.8`分支。
 
-但如果你觉得以上技术要么太重、要么太难、要么不好玩的时候，请试试看基于NodeJS的天马HTTP服务器套件（以下简称天马）。
+如果您想查看历史版本的使用手册，请访问[天马使用手册](http://tianma.f2e.sc/)。
 
-首先可以看看[天马HTTP服务器套件使用手册](http://tianma.f2e.sc/beta/)，里边详细介绍了怎么安装和使用天马。
 
-如果你决定要使用天马做一些事情，并且恰好你也使用的Windows系统的话，还可以试试看[天马伴侣](https://github.com/tianmajs/tianma.daemon)，能简化服务的管理。
+
+
+## LICENSE
+
+[MIT](https://github.com/tianmajs/tianmajs.github.io/blob/master/LICENSE)
